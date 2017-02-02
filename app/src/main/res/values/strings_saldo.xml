@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saldo">Saldo</string>
+    <string name="resumo">Resumo</string>
+    <string name="valorFalso">R$87,56</string>
+    <string name="consumoFalso">12/01/2017  13:03        R$87,56</string>
+    <string name="mais">+</string>
+</resources>
